@@ -1,0 +1,94 @@
+{
+  "requestUrl": "https://server-qa.myrepai.com/web/load?url=https%3A%2F%2Fstevens-chips.myshopify.com%2F&pk=snackpack&tz=Asia%2FJerusalem&ul=en-US",
+  "url": "https://server-qa.myrepai.com/web/load?url=https%3A%2F%2Fstevens-chips.myshopify.com%2F&pk=snackpack&tz=Asia%2FJerusalem&ul=en-US",
+  "timestamp": "2025-08-05T13:55:55.516Z",
+  "method": "GET",
+  "status": 200,
+  "executionTime": "1473ms",
+  "responseHeaders": {
+    "access-control-allow-origin": "https://stevens-chips.myshopify.com",
+    "content-length": "1817",
+    "date": "Tue, 05 Aug 2025 13:55:56 GMT",
+    "content-type": "application/json",
+    "vary": "Origin",
+    "access-control-allow-credentials": "true"
+  },
+  "responseBody": {
+    "jfl": "https://d1o5e9vlirdalo.cloudfront.net/client/qa/2.0.71/index.js",
+    "cfl": "https://d1o5e9vlirdalo.cloudfront.net/client/qa/2.0.71/style.css",
+    "gcfl": null,
+    "mc": "#ad2020",
+    "sc": "#2aa4ee",
+    "ac": "#3a3a3a",
+    "bgc": "rgba(177, 159, 159, 1)",
+    "pamc": null,
+    "pacc": null,
+    "pacmc": null,
+    "cmc": "#8f081a",
+    "paxc": null,
+    "i": "https://d3tvvia9d3e9ph.cloudfront.net/logos/default-skill-pic-small.png",
+    "d": true,
+    "cid": "528e42ff-31ae-4a1e-90e1-c447d030acde",
+    "sid": "8865ced2-f915-4f42-96c8-4fe4e37af8ed",
+    "g": "WIN1",
+    "ged": 1754488555381,
+    "crd": {
+      "p": "CUSTOM",
+      "cp": {
+        "x": "20px",
+        "y": "85px",
+        "h": "RIGHT",
+        "v": "BOTTOM"
+      }
+    },
+    "ate": true,
+    "wt": "Rep Here!",
+    "bs": "CHAT_WITH_US",
+    "bl": "Rep Here!",
+    "bsz": "NORMAL",
+    "csd": {
+      "v": false,
+      "c": "#000000"
+    },
+    "sb": true,
+    "ig": [
+      {
+        "t": "ECOMMERCE",
+        "m": "SHOPIFY",
+        "d": {}
+      }
+    ],
+    "zidx": null,
+    "toabr": true,
+    "msd": "stevens-chips.myshopify.com",
+    "sm": {
+      "THIS_FIELD_IS_REQUIRED": "This field is required",
+      "OUT_OF_STOCK": "Out of stock",
+      "WRONG_FILE_FORMAT": "Oops! It looks like the file format is off. Please use PNG or JPG.",
+      "THIS_EMAIL_IS_NOT_VALID": "Oops! That email doesn’t look quite right. Give it another shot!",
+      "YOU_ARE_NOW_CHATTING_WITH": "You're now chatting with ",
+      "THIS_NUMBER_IS_NOT_VALID": "Oops! That number doesn’t look quite right. Give it another shot!",
+      "CHAT_WITH_US": "Chat with us",
+      "YOUR_PHONE": "Your phone",
+      "WAITING_FOR_RESPONSE": "Excited to hear back from [NAME]!",
+      "YOUR_NAME": "Your name",
+      "MESSAGE": "Type anything here...",
+      "STARTS_FROM": "Starts from",
+      "YOUR_EMAIL": "Your email",
+      "ORDER_ID": "Order id",
+      "RATE_THIS_CONVERSATION": "Rate this conversation",
+      "CONTACT_SUPPORT": "Support",
+      "CLICK_HERE_TO_UPLOAD_AN_IMAGE": "Ready to share? Click here to upload an image!"
+    },
+    "l": "en-US",
+    "ssfat": "f8ad7ecd9b24440bc5fc65c3009aea4a",
+    "sdk": false,
+    "doca": false,
+    "hl": null,
+    "sbt": "Here to help you shop",
+    "ipwe": false,
+    "ipci": "",
+    "ipt": "Ask about this product"
+  },
+  "resourceType": "fetch"
+}

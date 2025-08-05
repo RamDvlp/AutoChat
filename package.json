@@ -1,0 +1,18 @@
+{
+  "name": "autochat-playwright",
+  "version": "1.0.0",
+  "description": "Playwright automation for Steven's Chips website",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "install-browsers": "playwright install"
+  },
+  "keywords": ["playwright", "automation", "testing"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+} 
